@@ -11,6 +11,7 @@ namespace prac
         static void Main()
         {
           Console.WriteLine("hello word");
+            Console.WriteLine("Demo git 1");
            Console.ReadKey();
                 
         }
